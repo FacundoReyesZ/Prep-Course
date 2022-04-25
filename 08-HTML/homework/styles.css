@@ -1,3 +1,16 @@
+*{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: aquamarine;  
+}
+body{
+    background: url(../../../FONDOS/Fpizza.jpg);
+    
+}
+div{
+    text-align: center;
+}
 .divClass h1{
     color: red;
 }
